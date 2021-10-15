@@ -5,9 +5,9 @@ import { Link } from "react-router-dom";
 const Product = () => {
     return (
         <div className="product">
-            <img scr="https://images.unsplash.com/photo-1606813907291-d86efa9b94db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80" alt="Product Name " />
+            <img src="https://images.fonearena.com/blog/wp-content/uploads/2021/09/iPhone-13-Pro-and-iPhone-13-Pro-Max-1024x925.jpg" alt="Product Name " />
             <div className="product__info">
-                <p className="info__name">Iphone X</p>
+                <p className="info__name">Iphone 13</p>
                 <p className="info__description">
                     We could take it slower Wait until we're older But I might be somebody You might not even know her 
                     I'm going through changes It's a roller-coaster But I might be somebody You might not even know her
